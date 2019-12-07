@@ -1,0 +1,6 @@
+#application
+browser=chrome
+url=http://webapp.qedge.com/login.php
+#login locators
+username=admin
+password=master
